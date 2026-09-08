@@ -1,0 +1,11 @@
+// Assignment 1
+// create a login text that will concatinate users details (name, age, address, state, country) using both the plus method and the obhject literals
+// what are the case types - camelCase
+
+const name = "Stephen";
+const age = 18;
+const address = "Ikeja";
+const state = "Lagos";
+const country = "Nigeria";
+
+console.log("Hello Good afternoon, your name is " + name + " your age is " + age + " your address is " + address + " your state is  " + state + " your country is " + country)
