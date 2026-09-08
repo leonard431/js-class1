@@ -7,9 +7,12 @@
 // const means constant
 // const cannot be redeclared and cannot be reassigned value
 
-var name = "Stephen";
-
+let name = "Stephen"
+// This will throw an error because 'name' is already declared as a const
 function check(){
+ 
+console.log(name)
+
  const age = 20;
     console.log(age)
 }
