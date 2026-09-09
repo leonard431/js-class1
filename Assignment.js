@@ -29,8 +29,8 @@ console.log(`Hello this is your name ${name}, your age is ${age}, your address i
 // fill an array with 20 value and log the item in index 10 and index 19
 
 const value = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
-console.log(values[10]);
-console.log(values[19]);
+console.log(value[10]);
+console.log(value[19]);
 
 // create an array, do a pop and push 3 other items in the location of the poped item
 
@@ -39,7 +39,7 @@ const fruits = ["Apple", "Banana", "Orange", "Mango", "Grape"];
 // Remove the last item
 console.log("before pop", fruits)
 const poppedItem = fruits.pop();
-console.log("after pop", friuts)
+console.log("after pop", fruits)
 
 // Add 3 new items at the position where the popped item was
 console.log(fruits)

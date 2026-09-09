@@ -7,7 +7,7 @@ const v = 2.5
 // plus sign
 // console.log("Hello Good afternoon, your name is " + name + " and your age is " + age + " your phone number " + phoneNumber + 1 + 1)
 
-// Object literal(`${}`) 
+// template literal(`${}`) 
 // console.log(`Hello this is your name ${name}, your age is ${age}, phone number ${phoneNumber}`)
 
 // Strings Method
