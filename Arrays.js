@@ -24,7 +24,7 @@ let Rice = foodType[2]
 // push
 // console.log(footballTeam)
 // const push = footballTeam.push("liverpool", "barca", "madrid")
-// console.log("after push",footballTeam)
+// console.log(footballTeam)
 
 
 // Assignment 2
